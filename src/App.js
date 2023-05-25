@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>testing</h1>
+        <h1>testing other test</h1>
         <Blue />
         
        
