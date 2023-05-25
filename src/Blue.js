@@ -31,7 +31,7 @@ function handleSubmit(event) {
          <div className="line">
       <h1>React AJAX</h1>
       <form onSubmit={handleSubmit}>
-        <input type="search" onChange={updateCity} />
+        <input type="search" value="search a city.." onChange={updateCity} />
         <input type="submit" value="Search" />
       </form>
       {weatherData && (
