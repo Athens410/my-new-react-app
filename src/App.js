@@ -1,6 +1,8 @@
 import './logo.svg';
 import './App.css';
-import React from "react";
+import React, { useState } from "react";
+import ReactAnimatedWeather from "react-animated-weather";
+
 import Blue from "./Blue";
 
 function App() {

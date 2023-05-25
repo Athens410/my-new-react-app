@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+.line {
+  border: 5px solid #b10fff;
+
+  padding: 44px;
+  padding-bottom: 77px;
+  border-radius: 20px;
+  background: linear-gradient(90deg,
+      rgb(252, 246, 115) 0%,
+      rgb(139, 102, 241) 100%);
+}
 
 @keyframes App-logo-spin {
   from {
