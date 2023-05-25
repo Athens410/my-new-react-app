@@ -2,6 +2,7 @@ import './logo.svg';
 import './App.css';
 import React, { useState } from "react";
 import ReactAnimatedWeather from "react-animated-weather";
+import axios from 'axios';
 
 import Blue from "./Blue";
 
